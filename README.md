@@ -50,7 +50,8 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"> <a href="www.linkedin.com/in/kawshalya-bandara-96b842264" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="KawshalyaBandara" height="50" width="50" /></a>
+<p align="center"> <a href="http://www.linkedin.com/in/kawshalya-bandara-96b842264" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Kawshalya Bandara
+ " height="50" width="50" /></a>
 <a href="https://www.facebook.com/kawshalya.bandara.3?mibextid=2JQ9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kawshalya Bandara " height="50" width="50" /></a>
 
  </p>
@@ -62,5 +63,4 @@
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+
